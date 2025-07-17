@@ -4,7 +4,7 @@
   # Comando para construir la aplicación
   command = "pnpm install && pnpm run build"
   # Directorio donde están los archivos construidos
-  publish = "frontend/dist/"
+  publish = "dist/"
 
 [build.environment]
   # Versión de Node.js
