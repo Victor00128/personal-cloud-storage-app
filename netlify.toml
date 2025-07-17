@@ -8,7 +8,7 @@
 
 [build.environment]
 
-  # Variables de entorno para el build
+
   VITE_API_URL = "https://tu-backend-url.herokuapp.com"
 
 # Configuración para SPA (Single Page Application)
